@@ -1,3 +1,3 @@
 public static void main(String[] args) {
-    System.out.println("test gifthub");
+    System.out.println("test github");
 }
